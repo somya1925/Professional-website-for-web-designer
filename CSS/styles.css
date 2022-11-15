@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100%;
+  color: #5E5C59;
+}
+
+h1 {
+  margin: 0;
+  font-size: 450%;
+  font-family: 'Sacramento', cursive;
+  color: #A890F5;
+}
+
+h2 {
+  font-size: 300%;
+  color: #A890F5;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  color: #B9A8F5;
+  font-size: 150%;
+}
+
+
+.sub-heading {
+  margin-top: 6px;
+  color: #A890F5;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #E4D9F7;
+  width: 1263px;
+  height: 672px;
+  position: relative;
+  padding-top: 10px;
+}
+
+.middle-container{
+  background-color: #F5EAE8;
+}
+
+.bottom-container{
+  background-color: #B9A8F5;
+  padding-top: 20px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.profile-img {
+  width: 200px;
+  margin-top: 100px;
+}
+
+.hello-content {
+  margin-bottom: 150px;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-color: white;
+  border-top-width: 4px;
+  width: 60px;
+  margin-top: 8px;
+}
+
+.brain-img {
+  float: left;
+  width: 200px;
+  margin-right: 70px;
+}
+
+.skills-img {
+  width: 240px;
+  float: right;
+}
+
+.design-text {
+  margin-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.get-in-touch {
+  margin-top: 100px;
+}
+
+.learning-dev {
+  margin-bottom: 50px;
+}
+
+.last-para {
+  margin-bottom: 70px;
+  line-height: 2;
+}
+
+.copyright {
+  color: #9F58E8;
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+.contact-me {
+  padding-bottom: 130px;
+}
+
+a {
+  color: #9F58E8;
+  font-family: 'Poppins', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E88295;
+}
+
+.btn {
+  background: #B9A8F5;
+  background-image: -webkit-linear-gradient(top, #B9A8F5, #B9A8F5);
+  background-image: -moz-linear-gradient(top, #B9A8F5, #B9A8F5);
+  background-image: -ms-linear-gradient(top, #B9A8F5, #B9A8F5);
+  background-image: -o-linear-gradient(top, #B9A8F5, #B9A8F5);
+  background-image: linear-gradient(to bottom, #B9A8F5, #B9A8F5);
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  -webkit-box-shadow: 1px 5px 12px #666666;
+  -moz-box-shadow: 1px 5px 12px #666666;
+  box-shadow: 1px 5px 12px #666666;
+  font-family:  'Poppins', sans-serif;
+  color: #866fd1;
+  font-size: 26px;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D9B3DC;
+  background-image: -webkit-linear-gradient(top, #D9B3DC, #D9B3DC);
+  background-image: -moz-linear-gradient(top, #D9B3DC, #D9B3DC);
+  background-image: -ms-linear-gradient(top, #D9B3DC, #D9B3DC);
+  background-image: -o-linear-gradient(top, #D9B3DC, #D9B3DC);
+  background-image: linear-gradient(to bottom, #D9B3DC, #D9B3DC);
+  text-decoration: none;
+}
